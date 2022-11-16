@@ -1,3 +1,5 @@
+package firstdemo;
+
 import java.util.Random;
 
 public class operators {
